@@ -36,7 +36,3 @@ npm run build
 - O 在 leet 中即为 0，从**零**开始
 - **O**rigin
 - All in **O**ne
-
-意见反馈：
-- https://github.com/viosey/O/issues
-- [i@viosey.com](mailto:i@viosey.com)
